@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "28c6961483272028",
+        "id": "0d7cc88f42afa936",
         "type": "tabs",
         "children": [
           {
-            "id": "065711ec275ffcf5",
+            "id": "7ec5b8b38e26b585",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར།"
             }
           }
         ]
@@ -193,8 +197,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "7ec5b8b38e26b585",
   "lastOpenFiles": [
+    "1-SOURCES/Text/ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར།.md",
+    "1-SOURCES/Text/རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF.md",
     "1-SOURCES/Text/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོ།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -228,8 +234,6 @@
     "4-SYSTEM/Skills/glossary-combine/SKILL.md",
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md",
-    "4-SYSTEM/Skills/create-skill/SKILL.md"
+    "4-SYSTEM/Skills/format-root-text/SKILL.md"
   ]
 }
